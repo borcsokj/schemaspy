@@ -4,7 +4,7 @@
     <artifactId>schemaspy</artifactId>
     <packaging>jar</packaging>
     <name>SchemaSpy</name>
-    <version>7.0.0-SNAPSHOT</version>
+    <version>7.0.3-SNAPSHOT</version>
     <url>http://schemaspy.org</url>
     <description>SchemaSpy generates HTML and PNG-based entity relationship diagrams from JDBC-enabled databases.
     </description>
@@ -289,7 +289,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.3.8</version>
+            <version>42.7.2</version>
             <scope>test</scope>
         </dependency>
         <dependency>
